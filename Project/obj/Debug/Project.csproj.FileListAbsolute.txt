@@ -1,0 +1,43 @@
+D:\Programing\Work C#\Project\Project\obj\Debug\Project.Form1.resources
+D:\Programing\Work C#\Project\Project\obj\Debug\Project.Properties.Resources.resources
+D:\Programing\Work C#\Project\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+D:\Programing\Work C#\Project\Project\obj\Debug\Project.csproj.ResolveComReference.cache
+D:\Programing\Work C#\Project\Project\obj\Debug\Project.EducationActivity.resources
+D:\Programing\Work C#\Project\Project\obj\Debug\Project.PublicActivity.resources
+D:\Programing\Work C#\Project\Project\obj\Debug\Project.ScientificResearchAcivity.resources
+D:\Programing\Work C#\Project\Project\obj\Debug\Project.SportActivity.resources
+D:\Programing\Work C#\Project\Project\obj\Debug\Project.Start.resources
+D:\Programing\Work C#\Project\Project\obj\Debug\Project.Tables.resources
+D:\Programing\Work C#\Project\Project\obj\Debug\Project.Worksheet.resources
+D:\Programing\Work C#\Project\Project\obj\Debug\Project.СulturalСreativeActivity.resources
+D:\Programing\Work C#\Project\Project\bin\Debug\Microsoft.Office.Interop.Word.dll
+D:\Programing\Work C#\Project\Project\bin\Debug\Resources\DataBaseFinal.mdb
+D:\Programing\Work C#\Project\Project\bin\Debug\System.Data.dll
+D:\Programing\Work C#\Project\Project\bin\Debug\Office.dll
+D:\Programing\Work C#\Project\Project\bin\Debug\[ Project ] Questionnaire.exe
+D:\Programing\Work C#\Project\Project\bin\Debug\[ Project ] Questionnaire.pdb
+D:\Programing\Work C#\Project\Project\obj\Debug\[ Project ] Questionnaire.exe
+D:\Programing\Work C#\Project\Project\obj\Debug\[ Project ] Questionnaire.pdb
+D:\Programing\Work C#\Project\Project\obj\Debug\Project.Password.resources
+D:\Programing\Work C#\Project Backap 1.1\Project\obj\Debug\Project.csproj.ResolveComReference.cache
+D:\Programing\Work C#\Project Backap 1.1\Project\obj\Debug\[ Project ] Questionnaire.exe
+D:\Programing\Work C#\Project Backap 1.1\Project\obj\Debug\[ Project ] Questionnaire.pdb
+D:\Programing\Work C#\Project Backap 1.1\Project\bin\Debug\Resources\DataBaseFinal.mdb
+D:\Programing\Work C#\Project Backap 1.1\Project\bin\Debug\[ Project ] Questionnaire.exe
+D:\Programing\Work C#\Project Backap 1.1\Project\bin\Debug\[ Project ] Questionnaire.pdb
+D:\Programing\Work C#\Project Backap 1.1\Project\bin\Debug\System.Data.dll
+D:\Programing\Work C#\Project Backap 1.1\Project\bin\Debug\Office.dll
+D:\Programing\Work C#\Project Backap 1.1\Project\bin\Debug\Microsoft.Office.Interop.Word.dll
+D:\Programing\Work C#\Project Backap 1.1\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+D:\Programing\Work C#\Project Backap 1.1\Project\obj\Debug\Project.EducationActivity.resources
+D:\Programing\Work C#\Project Backap 1.1\Project\obj\Debug\Project.Form1.resources
+D:\Programing\Work C#\Project Backap 1.1\Project\obj\Debug\Project.Password.resources
+D:\Programing\Work C#\Project Backap 1.1\Project\obj\Debug\Project.Properties.Resources.resources
+D:\Programing\Work C#\Project Backap 1.1\Project\obj\Debug\Project.PublicActivity.resources
+D:\Programing\Work C#\Project Backap 1.1\Project\obj\Debug\Project.ScientificResearchAcivity.resources
+D:\Programing\Work C#\Project Backap 1.1\Project\obj\Debug\Project.SportActivity.resources
+D:\Programing\Work C#\Project Backap 1.1\Project\obj\Debug\Project.Start.resources
+D:\Programing\Work C#\Project Backap 1.1\Project\obj\Debug\Project.Tables.resources
+D:\Programing\Work C#\Project Backap 1.1\Project\obj\Debug\Project.Worksheet.resources
+D:\Programing\Work C#\Project Backap 1.1\Project\obj\Debug\Project.СulturalСreativeActivity.resources
+D:\Programing\Work C#\Project Backap 1.1\Project\obj\Debug\Project.csproj.GenerateResource.Cache
